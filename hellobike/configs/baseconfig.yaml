@@ -1,8 +1,0 @@
-# start app default configurations
-automationName: UiAutomator2
-platformName: Android
-platformVersion: 9
-deviceName: cbba4452
-appPackage: com.jingyao.easybike
-appActivity: com.hellobike.atlas.business.portal.PortalActivity
-noReset: True
